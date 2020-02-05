@@ -1,0 +1,28 @@
+Full Name
+Team
+Position
+Age
+Games Played
+Minutes Per Game
+Minutes Percentage
+Usage Percentage
+Tor%
+FTA
+FT%
+2PA
+2P%
+3PA
+3P%
+Effective Foot Percentage
+True Shooting Percentage
+Points Per Game
+Rebounds Per Game
+Total Rebound Percentage
+Assists Per Game
+Assist Percentage
+Steals per game
+Blocks per game
+Turnovers Per Game
+Versatility Index
+Offensive Rating
+Defensive Rating
